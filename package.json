@@ -1,6 +1,6 @@
 {
-  "name": "@tolfix/lib",
-  "version": "1.0.1",
+  "name": "tolfix-lib",
+  "version": "1.0.2",
   "description": "Tolfix official library",
   "main": "./lib/index.js",
   "types": "./lib/index.d.ts",
